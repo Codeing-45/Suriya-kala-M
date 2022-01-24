@@ -1,0 +1,28 @@
+1.What is Data type?
+    Data type are the classification of knowledge items.
+    It represent the type useful that tells what operations are often performed on specific data.
+
+2.Types of data type?
+    # String
+  Eg;
+    var1="Hello World!"
+    var2="pythonbasic"
+    print(str1)
+    print(str2)
+
+    # List
+    # Integer
+    # Set
+    # Boolean
+    # Complex number
+    # Tuple
+    # Floating-point arithmetic
+
+3.Comments single\multi line comment?
+     # Single linecomment-It is present above the code or with inline code.
+     # Multi linecomment- It will have # character in every line of the comments.
+
+4.Docstring ?
+     A python docstrings is a string used to document a python module,class,function or method,so programmers
+can understand what it does without having to read the detials of the implementation.
+    
